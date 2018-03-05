@@ -5,7 +5,7 @@ Content developed by Brooke Wolford adapted from Richard Born. [Original lesson 
 ## You will need:
 1. Two ozobots
 2. Two smartphone/tablets with Ozobot Evo application
-3. Two track print outs (11 by 17 or 8.5 by 11)
+3. Two [tracks](randomness_map_11_by_17.pdf) printed in color (This file prints fine as 11 by 17 or 8.5 by 11)
 4. Loaded and standard die (optional)
 
 ## Instructions:
