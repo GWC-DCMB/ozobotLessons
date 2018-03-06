@@ -1,0 +1,132 @@
+---
+title: "Running of the Bots"
+author: "Girls Who Code at University of Michigan Department of Computational Medicine and Bioinformatics"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(RColorBrewer)
+
+```
+
+
+# Simulate an Unfair Coin with Ozobot
+```{r}
+
+#set seed
+set.seed=123
+
+#sample size
+n<-100
+
+#simulate unfair coin
+sim<-floor(runif(n,min=1,max=7))
+
+#function to turn uniform distribution of values to directions
+num_to_dir<-function(x){
+  if (x==1){
+    return("left")
+  } else if (x==2){
+    return("straight")
+  } else if (x==3){
+    return("right")
+  } else if (x==4){
+    return("right")
+  } else if (x==5){
+    return("right")
+  } else if (x==6){
+    return("right")
+  }
+}
+
+dir<-unlist(lapply(sim,num_to_dir))
+ddir<-data.frame(dir)
+ddir$dir <- factor(ddir$dir, levels = c("left","straight","right"))
+
+#barplot
+ggplot(ddir,aes(x=dir,fill=dir)) + geom_bar() + theme_bw() + 
+  labs(title="Unfair Coin Ozobot Simulation",x="Directional Choice",y="Count") +
+  scale_fill_brewer(palette = "Set1")
+
+#represent directions as numbers (1 is left, 2 is straight, 3 is right)
+sim_fac<-factor(sim)
+levels(sim_fac)<-c(1,2,3,3,3,3)
+sim_num<-as.numeric(sim_fac)
+ddir$num<-sim_num
+
+#density
+ggplot(ddir,aes(x=num)) + theme_bw() + stat_density() + labs(title="Unfair Coin Ozobot Simulation",x="Directional Choice",y="Density")
+
+#probabilities
+prob<-data.frame(table(ddir$dir)/n)
+names(prob)<-c("direction","prob")
+
+ggplot(prob,aes(x=direction,y=prob,fill=direction,label=prob)) + geom_bar(stat="identity") + theme_bw() +
+  labs(title="Unfair Coin Ozobot Simulation",x="Directional Choice",y="Experimental Probability") +
+  scale_fill_brewer(palette = "Set1") + geom_text(vjust=1.5,size=5)
+
+```
+
+# Simulate a Fair Coin with Ozobot
+
+```{r}
+sim_fair<-floor(runif(n,min=1,max=4))
+sim_fair_fac<-as.factor(sim_fair)
+levels(sim_fair_fac)<-c("left","straight","right")
+ddir_fair<-data.frame(dir=sim_fair_fac,num=sim_fair)
+
+
+#barplot
+ggplot(ddir_fair,aes(x=dir,fill=dir)) + geom_bar() + theme_bw() + 
+  labs(title="Fair Coin Ozobot Simulation",x="Directional Choice",y="Count") +
+  scale_fill_brewer(palette = "Set1")
+
+
+#density
+ggplot(ddir_fair,aes(x=num)) + theme_bw() + stat_density() + labs(title="Unfair Coin Ozobot Simulation",x="Directional Choice",y="Density")
+
+#probabilities
+n<-100
+prob_fair<-data.frame(table(ddir_fair$dir)/n)
+names(prob_fair)<-c("direction","prob")
+
+ggplot(prob_fair,aes(x=direction,y=prob,fill=direction,label=prob)) + geom_bar(stat="identity") + theme_bw() +
+  labs(title="Fair Coin Ozobot Simulation",x="Directional Choice",y="Experimental Probability") +
+  scale_fill_brewer(palette = "Set1") + geom_text(vjust=1.5,size=5)
+
+```
+
+# What sample size is needed for experimental probability to converge on theoretical probability?
+
+```{r}
+#function for simulation and plotting
+fair_simulation<-function(n){
+  sim_fair<-floor(runif(n,min=1,max=4))
+  sim_fair_fac<-as.factor(sim_fair)
+  levels(sim_fair_fac)<-c("left","straight","right")
+  ddir_fair<-data.frame(dir=sim_fair_fac,num=sim_fair)
+  prob_fair<-data.frame(table(ddir_fair$dir)/n)
+  names(prob_fair)<-c("direction","prob")
+  return(prob_fair)
+}
+
+
+#test sample sizes from 100 to 10000 incremented by 500
+for (i in seq(100,10000,500)){
+  prob_fair<-fair_simulation(i)
+  title_text<-paste0("Fair Coin Ozobot Simulation N=",i)
+  print(ggplot(prob_fair,aes(x=direction,y=prob,fill=direction,label=sprintf("%0.4f", round(prob, digits = 4)))) + geom_bar(stat="identity") +
+          theme_bw() + geom_hline(yintercept=0.33333333,linetype="dashed") +
+          labs(title=title_text,x="Directional Choice",y="Experimental Probability") +
+          scale_fill_brewer(palette = "Set1") + geom_text(vjust=1.5,size=5))
+  
+}
+
+```
+
+
+# What is the theoretical probability of obtaining at least one run of length L if Ozobot traverses the track 100 times?
+
+http://www.gregegan.net/QUARANTINE/Runs/Runs.html
