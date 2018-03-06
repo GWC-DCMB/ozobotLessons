@@ -9,11 +9,13 @@ Content developed by Brooke Wolford adapted from Richard Born. [Original lesson 
 4. Loaded and standard die (optional)
 
 ## Ozobot Instructions:
-Log in to your account at https://ozoblockly.com and upload .ozocode files. Download Ozobot Evo application to your smartphone. Log in and connect your Ozobot to your account. You can then have your Ozobot execute the code from your smartphone. Have one Ozobot execute UnfairCoin and the other execute FairCoin on the tracks.
+Log in to your account at https://ozoblockly.com and upload .ozocode files. Download Ozobot Evo application to your smartphone. Log in and connect your Ozobot to your account. You can then have your Ozobot execute the code from your smartphone. Have one Ozobot execute UnfairCoin and the other execute FairCoin on the tracks. You might want to callibrate your Ozobot first.
 
 Previews of the .ozocode files with corresponding JavaScript:
 - [Unfair coin](UnfairCoin.png)
 - [Fair coin](FairCoin.png)
 
-## 
-Instructional material with further explanation and concepts.
+## Instructional Material
+
+- [Experiment instructions](randomness_probability_activity_info.pdf) for faciliators. Includes objectives, extensions, concepts and definitions, and answers to discussion questions.
+- [Simulations](running_of_the_bots_simulation.html) for Ozobot UnfairCoin and FairCoin code in R
