@@ -18,4 +18,4 @@ Previews of the .ozocode files with corresponding JavaScript:
 ## Instructional Material
 
 - [Experiment instructions](randomness_probability_activity_info.pdf) for faciliators. Includes objectives, extensions, concepts and definitions, and answers to discussion questions.
-- [Simulations](http://htmlpreview.github.io/?ozobotLessons/running_of_the_bots/running_of_the_bots_simulation.html) for Ozobot UnfairCoin and FairCoin code in R
+- [Simulations](http://htmlpreview.github.io/?https://github.com/GWC-DCMB/ozobotLessons/blob/master/running_of_the_bots/running_of_the_bots_simulation.html) for Ozobot UnfairCoin and FairCoin code in R
