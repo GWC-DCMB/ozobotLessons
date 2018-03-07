@@ -18,4 +18,4 @@ Previews of the .ozocode files with corresponding JavaScript:
 ## Instructional Material
 
 - [Experiment instructions](running_of_the_bots.pdf) for faciliators. Includes objectives, extensions, concepts and definitions, and answers to discussion questions.
-- [Simulations](running_of_the_bots_simulation.html) for Ozobot UnfairCoin and FairCoin code in R
+- [Simulations](running_of_the_bots_simulation.Rmd) for Ozobot UnfairCoin and FairCoin code in R
