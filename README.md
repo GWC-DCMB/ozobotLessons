@@ -10,3 +10,10 @@ In this [activity](https://github.com/GWC-DCMB/FEMMES/) students will use Ozobot
 ## Time Machine
 In this [activity](time_machine/) students will use. Adaptations available for middle school and high school ages and implemented as a 45 minute activity. This lesson teaches programming concepts including writing psueodcode, binary, booleans, and conditional statements.
 ozobotLessons/README.md
+
+# Resources from Ozobot
+- [Calibration](ozobot-calibration-tips.pdf)
+- [Educator's Guide](ozobot-calibration-tips.pdf)
+- [Expereince Pack](ozobot-evo-experience-pack.pdf)
+- [Ozocode Reference](ozobot-ozocodes-reference.pdf)
+- [Ozobot Tips](ozobot-tips.pdf)
