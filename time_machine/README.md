@@ -1,7 +1,7 @@
 
 # Time Machine
 
-With this activity studetns will use the power of code to turn Ozobots into Time Machines! Use programming skills to travel in time to see the bright futures ahead! While on the Time Machine, students can keep their future-selves from running into problems, or pitfalls, along the way. These pitfalls are in the form of intersections which lead to line ends. Students must use code to avoid these line ends and keep their Time Machine moving forward. 
+With this activity students will use the power of code to turn Ozobots into Time Machines! Use programming skills to travel in time to see the bright futures ahead! While on the Time Machine, students can keep their future-selves from running into problems, or pitfalls, along the way. These pitfalls are in the form of intersections which lead to line ends. Students must use code to avoid these line ends and keep their Time Machine moving forward. 
 
 This activity is catered to middle school and high school students attending a day long Science Career Day with a 45 minute programming and robotics unit. Concepts covered include binary numbers, Boolean values, and conditional statements.
 
