@@ -8,8 +8,8 @@ In this [activity](running_of_the_bots/) students will use Ozobot to perform an 
 In this [activity](https://github.com/GWC-DCMB/FEMMES/) students will use Ozobots to create a dance routine. Gearded towards 4-6th grade girls and implemented as an hour long activity. This lesson teaches programming concepts including booleans and conditional statements.
 
 ## Time Machine
-In this [activity](time_machine/) students will use. Adaptations available for middle school and high school ages and implemented as a 45 minute activity. This lesson teaches programming concepts including writing psueodcode, binary, booleans, and conditional statements.
-ozobotLessons/README.md
+In this [activity](time_machine/) students will use Ozobots to travel in time while avoiding pitfalls using logic and computer programming with OzoBlockly. Adaptations available for middle school and high school ages and implemented as a 45 minute activity. This lesson teaches programming concepts including writing psueodcode, binary, booleans, and conditional statements.
+
 
 # Resources from Ozobot
 - [Calibration](ozobot-calibration-tips.pdf)
