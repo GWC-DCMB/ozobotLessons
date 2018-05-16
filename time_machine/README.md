@@ -21,4 +21,8 @@ This activity is catered to middle school and high school students attending a d
     - [pdf](TimeMachine.pdf)
   - Answer [pdf](TimeMachine_Answer.pdf)
   - Answer [keynote](TimeMachine_Answer.key)
-
+ - Relevant Resources
+  - https://medium.com/basecs/a-deeper-inspection-into-compilation-and-interpretation-d98952ebc842
+  - https://csunplugged.org/en/topics/binary-numbers/unit-plan/
+  - https://classic.csunplugged.org/binary-numbers/
+  
