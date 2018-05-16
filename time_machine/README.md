@@ -12,8 +12,10 @@ This activity is catered to middle school and high school students attending a d
   - [Middle School Adaptation](TimeMachine.ozocode)
   - [High School Adaptation](TimeMachine_Blanks.ozocode)
 - Printables
-  - 11 x 17 [pdf](TimeMachine_11by17.pdf)
-  - 11 x 17 [keynote](TimeMachine_11by17.key)
+  - 11 x 17 Custom for Wolverine Pathways [pdf](TimeMachine_11by17.pdf)
+  - 11 x 17 Custom for Wolverine Pathways [keynote](TimeMachine_11by17.key)
+  - 11 x 17 Generic [pdf](TimeMachine_11by17_generic.pdf)
+  - 11 x 17 Generic [keynote](TimeMachine_11by17_generic.key)
   - Sized for 11 by 17 but lines are too thick when printed as such, will work when printed in 8.5 by 11)
     - [keynote](TimeMachine.key)
     - [pdf](TimeMachine.pdf)
