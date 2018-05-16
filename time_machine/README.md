@@ -16,7 +16,7 @@ This activity is catered to middle school and high school students attending a d
   - 11 x 17 Custom for Wolverine Pathways [keynote](TimeMachine_11by17.key)
   - 11 x 17 Generic [pdf](TimeMachine_11by17_generic.pdf)
   - 11 x 17 Generic [keynote](TimeMachine_11by17_generic.key)
-  - Sized for 11 by 17 but lines are too thick when printed as such, will work when printed in 8.5 by 11)
+  - Sized for 11 by 17 but lines are too thick when printed as such, will work when printed in 8.5 by 11
     - [keynote](TimeMachine.key)
     - [pdf](TimeMachine.pdf)
   - Answer [pdf](TimeMachine_Answer.pdf)
