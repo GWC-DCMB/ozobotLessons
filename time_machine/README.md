@@ -28,7 +28,7 @@ The generic track is also provided so that you may change the theme of the activ
   - https://csunplugged.org/en/topics/binary-numbers/unit-plan/
   - https://classic.csunplugged.org/binary-numbers/
   
-# Genetic Testing
+# Genetic Sequencing Project
   
 The Genetic Testing track was created for rising undergraduate first-years for a 45 minute lesson as part of a larger module on Human Genetics. The same code is used from Time Machine, but the lesson allows exploration of a sequencing project which might happen in a genetics research lab.
 
