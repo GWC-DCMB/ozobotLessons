@@ -9,6 +9,7 @@ Links coming soon.
 - Presentation
 - Lesson Plans
 - Ozocode
+  - [Full code](decimalBinaryConverter.ozocode)
 - Printables
 - Relevant Resources
   - https://medium.com/basecs/a-deeper-inspection-into-compilation-and-interpretation-d98952ebc842
