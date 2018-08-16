@@ -10,6 +10,7 @@ Links coming soon.
 - Lesson Plans
 - Ozocode
   - [Full code](decimalBinaryConverter.ozocode)
+  - [Code with blanks] (decimalBinaryConverter_Blanks.ozocode)
 - Printables
 - Relevant Resources
   - https://medium.com/basecs/a-deeper-inspection-into-compilation-and-interpretation-d98952ebc842
