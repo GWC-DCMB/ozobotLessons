@@ -12,6 +12,8 @@ Links coming soon.
   - [Full code](decimalBinaryConverter.ozocode)
   - [Code with blanks](decimalBinaryConverter_Blanks.ozocode)
 - Printables
+ - [binary_number_track.pdf](binary_number_track.pdf)
+ - [binary_number_track.pages](binary_number_track.pages)
 - Relevant Resources
   - https://medium.com/basecs/a-deeper-inspection-into-compilation-and-interpretation-d98952ebc842
   - https://csunplugged.org/en/topics/binary-numbers/unit-plan/
