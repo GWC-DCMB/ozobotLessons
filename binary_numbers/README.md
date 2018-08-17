@@ -15,6 +15,15 @@ Links coming soon.
   - [binary_number_track.pdf](binary_number_track.pdf)
   - [binary_number_track.pages](binary_number_track.pages)
 - Relevant Resources
+  - https://blockly-games.appspot.com/
   - https://medium.com/basecs/a-deeper-inspection-into-compilation-and-interpretation-d98952ebc842
   - https://csunplugged.org/en/topics/binary-numbers/unit-plan/
   - https://classic.csunplugged.org/binary-numbers/
+  
+### References
+- Teaching binary:
+  - https://www.exploringbinary.com/how-i-taught-third-graders-binary-numbers/
+- Decimal binary function:
+  - https://portal.ozobot.com/lessons/detail/decimal-binary-converter
+- Inspiration:
+  - https://portal.ozobot.com/lessons/detail/binary-blaster
