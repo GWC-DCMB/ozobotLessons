@@ -7,7 +7,7 @@ This activity is geared to middle school students at the University of Michigan 
 ## Resources
 Links coming soon.
 - Presentation
-- Lesson Plans
+- [Lesson Plan](OzobotBinaryNumbers.pdf)
 - Ozocode
   - [Full code](decimalBinaryConverter.ozocode)
   - [Code with blanks](decimalBinaryConverter_Blanks.ozocode)
