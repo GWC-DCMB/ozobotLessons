@@ -5,8 +5,7 @@ In this activity students will learn about binary numbers, how computers use the
 This activity is geared to middle school students at the University of Michigan Innoworks summer camp with a 90 minute coding unit.
 
 ## Resources
-Links coming soon.
-- Presentation
+- [Presentation](2018-08-23_decimalBinaryConversion.pptx)
 - [Lesson Plan](OzobotBinaryNumbers.pdf)
 - Ozocode
   - [Full code](decimalBinaryConverter.ozocode)
