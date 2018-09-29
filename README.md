@@ -2,7 +2,7 @@
 Lesson plans by Girls Who Code at University of Michigan DCMB for outreach activites using Ozobot. Many of these may be adpated for your needs. Please contact gwc.info-requests@umich.edu for help with adaptation or implementation.
 
 ## Binary Bots
-In this [activity[(binary_numbers/) 
+In this [activity](binary_numbers/) 
 
 ## Running of the Bots: Probability and Randomness
 In this [activity](running_of_the_bots/) students will use Ozobot to perform an experiment. Concepts covered include probability, computer programming, conditional statements, and random number generators. Geared towards middle schoolers and implemented as an ongoing demonstration activity for an Expo.
