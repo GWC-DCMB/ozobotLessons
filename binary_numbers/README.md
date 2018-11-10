@@ -19,7 +19,7 @@ This activity is geared to middle school students at the University of Michigan 
   - https://csunplugged.org/en/topics/binary-numbers/unit-plan/
   - https://classic.csunplugged.org/binary-numbers/
   
-This activity was adapted for 45 minute session with 3-5 graders for Univeristy of Michigan FEMMES Fall 2018 Capstone. A presentation introduces binary, base2 math, and conditional statements. Students work through [Blockly Games](https://blockly-games.appspot.com/maze?lang=en), are shown the Ozocode that runs the Ozobots, and use the Ozobot to check their conversion of a base 10 number to base 2.
+This activity was adapted for 45 minute session with 3-5 graders for Univeristy of Michigan FEMMES Fall 2018 Capstone. A [presentation](2018-11-10_decimalBinaryConversion.pptx) introduces binary, base2 math, and conditional statements. Students work through [Blockly Games](https://blockly-games.appspot.com/maze?lang=en), are shown the Ozocode that runs the Ozobots, and use the Ozobot to check their conversion of a base 10 number to base 2.
   
 ### References
 - Teaching binary:
