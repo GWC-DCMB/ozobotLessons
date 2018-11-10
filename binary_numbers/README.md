@@ -28,3 +28,5 @@ This activity was adapted for 45 minute session with 3-5 graders for Univeristy 
   - https://portal.ozobot.com/lessons/detail/decimal-binary-converter
 - Inspiration:
   - https://portal.ozobot.com/lessons/detail/binary-blaster
+
+Developed by Zena Lapp and Marlena Duda.
