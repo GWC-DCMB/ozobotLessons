@@ -1,4 +1,4 @@
-# Binary Numbers
+# Binary Bots
 
 In this activity students will learn about binary numbers, how computers use them, and how to convert between decimal and binary. They will also code Ozobots to use a decimal to binary converter to check their answers. 
 
