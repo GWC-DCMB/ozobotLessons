@@ -14,7 +14,7 @@ In this [activity](https://github.com/GWC-DCMB/FEMMES/) students will use Ozobot
 In this [activity](time_machine/) students will use Ozobots to travel in time while avoiding pitfalls using logic and computer programming with OzoBlockly. Adaptations available for middle school and high school ages and implemented as a 45 minute activity. This lesson teaches programming concepts including writing psueodcode, binary, booleans, and conditional statements.
 
 ## STEMinist Parade
-In this [activity](STEMinistParade.pdf) students will use logic to complete the Ozobot path to visit the historical women in STEM in chronological order.
+In this [activity](STEMinistParade.pdf) students will use logic to complete the Ozobot path to visit the historical women in STEM in chronological order. Check your work with the [key](STEMinistParade_KEY.pdf).
 
 # Resources from Ozobot
 - [Calibration](ozobot-calibration-tips.pdf)
