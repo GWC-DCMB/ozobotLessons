@@ -7,4 +7,4 @@ Files:
 
 - [Genetic Testing track key in keynote](GeneticTesting_11by17_HG_SummerBridge.key)
 
-- [Lesson ppt]()
+- [Lesson ppt](2018_07_17_SummerBridge_ComputationalBiology.pptx)
