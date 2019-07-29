@@ -16,6 +16,9 @@ In this [activity](time_machine/) students will use Ozobots to travel in time wh
 ## STEMinist Parade
 In this [activity](steminist_parade/) students will use logic to complete the Ozobot path to visit the historical women in STEM in chronological order. 
 
+## Exome sequencing
+In this [activity](genetic_testing/) students will use logic to complete the Ozobot path to follow a blood sample through exome sequencing and computational analysis to genetic counseling.
+
 # Resources from Ozobot
 - [Calibration](ozobot-calibration-tips.pdf)
 - [Educator's Guide](ozobot-calibration-tips.pdf)
