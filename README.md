@@ -20,8 +20,9 @@ In this [activity](steminist_parade/) students will use logic to complete the Oz
 In this [activity](genetic_testing/) students will use logic to complete the Ozobot path to follow a blood sample through exome sequencing and computational analysis to genetic counseling.
 
 # Resources from Ozobot
-- [Calibration](ozobot-calibration-tips.pdf)
-- [Educator's Guide](ozobot-calibration-tips.pdf)
-- [Expereince Pack](ozobot-evo-experience-pack.pdf)
-- [Ozocode Reference](ozobot-ozocodes-reference.pdf)
-- [Ozobot Tips](ozobot-tips.pdf)
+- [Calibration](ozobot_docs/ozobot-calibration-tips.pdf)
+- [Educator's Guide](ozobot_docs/ozobot-calibration-tips.pdf)
+- [Expereince Pack](ozobot_docs/ozobot-evo-experience-pack.pdf)
+- [Ozocode Reference](ozobot_docs/ozobot-ozocodes-reference.pdf)
+- [Ozobot Tips](ozobot_docs/ozobot-tips.pdf)
+
